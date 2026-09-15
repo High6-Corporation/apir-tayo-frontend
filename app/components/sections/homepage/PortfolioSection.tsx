@@ -15,7 +15,7 @@ function resolveImageUrl(url: string): string {
 // const portfolioImageMap: Record<string, string> = {
 //   "Soding Bros": "/assets/soding-bros.png",
 //   "Tipping Point PH": "/assets/tipping-point-ph.png",
-//   "Ad-Haven": "/assets/adhaven.png",
+//   "Matchpoint Sports": "/assets/matchpoint.png",
 //   "Michael James Love": "/assets/mjl.png",
 //   "City Tech": "/assets/69608c73f7374bc0cc7e836fb4d87a10f6e2c208.png",
 //   Edgetech: "/assets/3f5a380ce7d9387320c7ce2309ba10a3a368ee9a.png",

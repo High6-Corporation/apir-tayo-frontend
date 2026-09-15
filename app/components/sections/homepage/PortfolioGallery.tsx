@@ -19,12 +19,12 @@ export function PortfolioGallery() {
             </div>
           </div>
 
-          {/* Card 2 - adhaven.png (Duplicate) */}
+          {/* Card 2 - matchpoint.png (Duplicate) */}
           <div className="relative mb-[23px]">
             <div className="bg-[rgba(255,255,255,0.17)] h-[301.025px] rounded-[20px] shadow-[0px_4px_45px_0px_rgba(0,0,0,0.17)] w-[256.108px]" />
             <div className="absolute h-[271.868px] left-[12.5px] rounded-[10px] top-[14.18px] w-[230.891px]">
               <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[10px]">
-                <Image alt="" src="/assets/adhaven.png" fill priority className="object-cover object-top" sizes="231px" />
+                <Image alt="" src="/assets/matchpoint.png" fill priority className="object-cover object-top" sizes="231px" />
               </div>
             </div>
           </div>
@@ -60,12 +60,12 @@ export function PortfolioGallery() {
             </div>
           </div>
 
-          {/* Card 2 - adhaven.png */}
+          {/* Card 2 - matchpoint.png */}
           <div className="relative mb-[23px]">
             <div className="bg-[rgba(255,255,255,0.17)] h-[301.025px] rounded-[20px] shadow-[0px_4px_45px_0px_rgba(0,0,0,0.17)] w-[256.108px]" />
             <div className="absolute h-[271.868px] left-[12.5px] rounded-[10px] top-[14.18px] w-[230.891px]">
               <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[10px]">
-                <Image alt="" src="/assets/adhaven.png" fill loading="eager" className="object-cover object-top" sizes="231px" />
+                <Image alt="" src="/assets/matchpoint.png" fill loading="eager" className="object-cover object-top" sizes="231px" />
               </div>
             </div>
           </div>
@@ -116,12 +116,12 @@ export function PortfolioGallery() {
             </div>
           </div>
 
-          {/* Card 3 - adhaven.png */}
+          {/* Card 3 - matchpoint.png */}
           <div className="relative mb-[23px]">
             <div className="bg-[rgba(255,255,255,0.17)] h-[301.028px] rounded-[20px] shadow-[0px_4px_45px_0px_rgba(0,0,0,0.17)] w-[256.11px]" />
             <div className="absolute h-[271.871px] left-[12.25px] rounded-[10px] top-[14.18px] w-[231.681px]">
               <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[10px]">
-                <Image alt="" src="/assets/adhaven.png" fill loading="eager" className="object-cover object-top" sizes="231px" />
+                <Image alt="" src="/assets/matchpoint.png" fill loading="eager" className="object-cover object-top" sizes="231px" />
               </div>
             </div>
           </div>
@@ -157,12 +157,12 @@ export function PortfolioGallery() {
             </div>
           </div>
 
-          {/* Card 3 - adhaven.png (Duplicate) */}
+          {/* Card 3 - matchpoint.png (Duplicate) */}
           <div className="relative mb-[23px]">
             <div className="bg-[rgba(255,255,255,0.17)] h-[301.028px] rounded-[20px] shadow-[0px_4px_45px_0px_rgba(0,0,0,0.17)] w-[256.11px]" />
             <div className="absolute h-[271.871px] left-[12.25px] rounded-[10px] top-[14.18px] w-[231.681px]">
               <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[10px]">
-                <Image alt="" src="/assets/adhaven.png" fill loading="eager" className="object-cover object-top" sizes="231px" />
+                <Image alt="" src="/assets/matchpoint.png" fill loading="eager" className="object-cover object-top" sizes="231px" />
               </div>
             </div>
           </div>

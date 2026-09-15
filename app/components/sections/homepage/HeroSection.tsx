@@ -229,7 +229,7 @@ export function HeroSection({
                             <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[10px]">
                               <Image
                                 alt=""
-                                src="/assets/adhaven.png"
+                                src="/assets/matchpoint.png"
                                 fill
                                 {...(setIndex === 0
                                   ? { priority: true }
@@ -291,7 +291,7 @@ export function HeroSection({
                             <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[10px]">
                               <Image
                                 alt=""
-                                src="/assets/adhaven.png"
+                                src="/assets/matchpoint.png"
                                 fill
                                 {...(setIndex === 0
                                   ? { priority: true }
